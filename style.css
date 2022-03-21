@@ -1,0 +1,14 @@
+h1 {
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#camera {
+    width: 750px;
+    height: 750px;
+    border-color: black;
+}
+
+img {
+    width: auto;
+    height: auto;
+}
